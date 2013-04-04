@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "container:KiwiSample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../../../Applications/MAMP/htdocs/github/Kiwi/Kiwi.xcodeproj">
+   </FileRef>
+</Workspace>

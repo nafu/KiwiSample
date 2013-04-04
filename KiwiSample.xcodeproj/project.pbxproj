@@ -472,6 +472,7 @@
 				1333B0CC170D578E003C67B4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1333B0CD170D578E003C67B4 /* Build configuration list for PBXNativeTarget "KiwiSampleTests" */ = {
 			isa = XCConfigurationList;
@@ -480,6 +481,7 @@
 				1333B0CF170D578E003C67B4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
