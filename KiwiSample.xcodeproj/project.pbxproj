@@ -25,6 +25,7 @@
 		1333B0BC170D578E003C67B4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1333B091170D578D003C67B4 /* Foundation.framework */; };
 		1333B0C4170D578E003C67B4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1333B0C2170D578E003C67B4 /* InfoPlist.strings */; };
 		1333B0C7170D578E003C67B4 /* KiwiSampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1333B0C6170D578E003C67B4 /* KiwiSampleTests.m */; };
+		13998621170D71E600146306 /* MathSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = 13998620170D71E600146306 /* MathSpec.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,7 @@
 		1333B0C3170D578E003C67B4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		1333B0C5170D578E003C67B4 /* KiwiSampleTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KiwiSampleTests.h; sourceTree = "<group>"; };
 		1333B0C6170D578E003C67B4 /* KiwiSampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KiwiSampleTests.m; sourceTree = "<group>"; };
+		13998620170D71E600146306 /* MathSpec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MathSpec.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,6 +157,7 @@
 				1333B0C5170D578E003C67B4 /* KiwiSampleTests.h */,
 				1333B0C6170D578E003C67B4 /* KiwiSampleTests.m */,
 				1333B0C0170D578E003C67B4 /* Supporting Files */,
+				13998620170D71E600146306 /* MathSpec.m */,
 			);
 			path = KiwiSampleTests;
 			sourceTree = "<group>";
@@ -292,6 +295,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1333B0C7170D578E003C67B4 /* KiwiSampleTests.m in Sources */,
+				13998621170D71E600146306 /* MathSpec.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
